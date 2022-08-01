@@ -1,0 +1,23 @@
+ * Variables = imagina que tenemos una habitacion llamada 'memoria RAM', que es donde queremos guardar nuestras 
+ cosas/datos, pero para poder encontrar esas cosas con facilidad necesitamos ordenarlas de modo que tu y yo 
+ y cualquiera pueda encontar los objetos que hay en el cuarto con facilidad. Entonces los colocamos en cajas 
+ con etiquetas, esas cajas serian las variables.
+
+ * Strings = o cadenas, son lineas de caractares, precisamente un String para la computadora puede ser una cuerda 
+ que tiene una larga fila de letras que podemos guardar en un caja/variable para ser leida despues.
+
+ * Funciones = (argumentos, `return`): Imagina ahora una linea de produccion como en las viejas caricaturas de Bugs Bunny.
+ A traves de la linea aparece objetos/datos que son procesador para obtener un producto.
+ Una funcion, seria una maquina por donde entra un producto, la boca por donde entran los datos se llama: 'argumentos',
+ dentro de la maquina esos argumentos son procezados y si debe devolver un producto lo hace por otra boca de salida
+ que sellama:  'return'.
+ Al igual que muestran en la caricaturas, muchas veces no vemos el proceso de tranformacion del material/objeto 
+ dentro de la funcion, solo vemos el producto final.
+
+
+ * Declaraciones `if` = dentro de la linea de produccion, llamemosla linea 1, 'if' seria la maquina encargada 
+ de testear el producto, que segun una condiciones u otras, llevara el producto a la linea 2 o la linea 3 etc...
+ 
+ * Valores booleanos (`true`, `false`) =  son los datos más puros que usa la computadora. Si un dato, operacion,
+ cumple con los parametros que deseamos la computadora envia una señal con el numero 1, es decir true, para indicar
+ que cumple con los requerimientos, sino, envia una señal 0/'false', indicando que no cumple los requrimientos
